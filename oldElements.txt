@@ -10,10 +10,10 @@
 	<title>Kinesitherapie | Kinepunctuur</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-	<!--[if lte IE 8]><script src="/kinepunctuur/assets/js/ie/html5shiv.js"></script><![endif]-->
-	<link rel="stylesheet" href="/kinepunctuur/assets/css/main.css" />
-	<!--[if lte IE 9]><link rel="stylesheet" href="/kinepunctuur/assets/css/ie9.css" /><![endif]-->
-	<!--[if lte IE 8]><link rel="stylesheet" href="/kinepunctuur/assets/css/ie8.css" /><![endif]-->
+	<!--[if lte IE 8]><script src="/assets/js/ie/html5shiv.js"></script><![endif]-->
+	<link rel="stylesheet" href="/assets/css/main.css" />
+	<!--[if lte IE 9]><link rel="stylesheet" href="/assets/css/ie9.css" /><![endif]-->
+	<!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/ie8.css" /><![endif]-->
 </head>
 
 
@@ -24,8 +24,8 @@
 
 <!-- Header -->
 <header id="header">
-	<a href="/kinepunctuur/" class="logo">
-		<img src="/kinepunctuur/assets/images/kinepunctuurW.png" alt="" style="max-width: 300px;margin:12px;text-align: center;" /> 
+	<a href="/" class="logo">
+		<img src="/assets/images/kinepunctuurW.png" alt="" style="max-width: 300px;margin:12px;text-align: center;" /> 
 	</a>
 	<nav>
 		<a href="#menu">Menu</a>
@@ -43,7 +43,7 @@
 		    
 		
 		    
-		        <li><a href="/kinepunctuur/">Home</a></li>
+		        <li><a href="/">Home</a></li>
 	    	
 		
 		    
@@ -58,17 +58,17 @@
 		    
 		
 		    
-		        <li><a href="/kinepunctuur/acupunctuur.html">Acupunctuur</a></li>
+		        <li><a href="/acupunctuur.html">Acupunctuur</a></li>
 		    
 		
 		    
-		        <li><a href="/kinepunctuur/afspraak.html">Een afspraak maken</a></li>
+		        <li><a href="/afspraak.html">Een afspraak maken</a></li>
 		    
 		
 		    
 		
 		    
-		        <li><a href="/kinepunctuur/kinesitherapie.html">Kinesitherapie</a></li>
+		        <li><a href="/kinesitherapie.html">Kinesitherapie</a></li>
 		    
 		
 	</ul>
@@ -95,7 +95,7 @@
             	Astrid maakt tijdens haar behandelingen zowel gebruik van manuele technieken, oefentherapie en dry needling. Dit doet ze dankzij de ervaring die ze heeft opgebouwd en de opleidingen die ze gevolgd heeft.
          	</div>
          	<div class="4u 8u(small)">
-			                      <span class="image fit"><img src="/kinepunctuur/assets/images/pic08.jpg" alt="" /></span>
+			                      <span class="image fit"><img src="/assets/images/pic08.jpg" alt="" /></span>
 
 	         </div>
          </div>
@@ -434,25 +434,25 @@
                <!-- Image -->
                <h3>Image</h3>
                <h4>Fit</h4>
-               <span class="image fit"><img src="/kinepunctuur/assets/images/pic03.jpg" alt="" /></span>
+               <span class="image fit"><img src="/assets/images/pic03.jpg" alt="" /></span>
                <div class="box alt">
                   <div class="row 50% uniform">
-                     <div class="4u"><span class="image fit"><img src="/kinepunctuur/assets/images/pic08.jpg" alt="" /></span></div>
-                     <div class="4u"><span class="image fit"><img src="/kinepunctuur/assets/images/pic09.jpg" alt="" /></span></div>
-                     <div class="4u$"><span class="image fit"><img src="/kinepunctuur/assets/images/pic10.jpg" alt="" /></span></div>
+                     <div class="4u"><span class="image fit"><img src="/assets/images/pic08.jpg" alt="" /></span></div>
+                     <div class="4u"><span class="image fit"><img src="/assets/images/pic09.jpg" alt="" /></span></div>
+                     <div class="4u$"><span class="image fit"><img src="/assets/images/pic10.jpg" alt="" /></span></div>
                      <!-- Break -->
-                     <div class="4u"><span class="image fit"><img src="/kinepunctuur/assets/images/pic10.jpg" alt="" /></span></div>
-                     <div class="4u"><span class="image fit"><img src="/kinepunctuur/assets/images/pic08.jpg" alt="" /></span></div>
-                     <div class="4u$"><span class="image fit"><img src="/kinepunctuur/assets/images/pic09.jpg" alt="" /></span></div>
+                     <div class="4u"><span class="image fit"><img src="/assets/images/pic10.jpg" alt="" /></span></div>
+                     <div class="4u"><span class="image fit"><img src="/assets/images/pic08.jpg" alt="" /></span></div>
+                     <div class="4u$"><span class="image fit"><img src="/assets/images/pic09.jpg" alt="" /></span></div>
                      <!-- Break -->
-                     <div class="4u"><span class="image fit"><img src="/kinepunctuur/assets/images/pic09.jpg" alt="" /></span></div>
-                     <div class="4u"><span class="image fit"><img src="/kinepunctuur/assets/images/pic10.jpg" alt="" /></span></div>
-                     <div class="4u$"><span class="image fit"><img src="/kinepunctuur/assets/images/pic08.jpg" alt="" /></span></div>
+                     <div class="4u"><span class="image fit"><img src="/assets/images/pic09.jpg" alt="" /></span></div>
+                     <div class="4u"><span class="image fit"><img src="/assets/images/pic10.jpg" alt="" /></span></div>
+                     <div class="4u$"><span class="image fit"><img src="/assets/images/pic08.jpg" alt="" /></span></div>
                   </div>
                </div>
                <h4>Left &amp; Right</h4>
-               <p><span class="image left"><img src="/kinepunctuur/assets/images/pic09.jpg" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-               <p><span class="image right"><img src="/kinepunctuur/assets/images/pic10.jpg" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
+               <p><span class="image left"><img src="/assets/images/pic09.jpg" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
+               <p><span class="image right"><img src="/assets/images/pic10.jpg" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
                <!-- Box -->
                <h3>Box</h3>
                <div class="box">
@@ -509,7 +509,7 @@ print 'It took ' + i + ' iterations to sort the deck.';
 				<div class="contact-method">
 					<span class="icon alt fa-phone"></span>
 					<h3>Telefoon</h3>
-					<span>0477 52 60 88</span>
+					<span>0123 45 67 89</span>
 				</div>
 			</section>
 			<section>
@@ -559,13 +559,13 @@ print 'It took ' + i + ' iterations to sort the deck.';
 </div>
 
 <!-- Scripts -->
-	<script src="/kinepunctuur/assets/js/jquery.min.js"></script>
-	<script src="/kinepunctuur/assets/js/jquery.scrolly.min.js"></script>
-	<script src="/kinepunctuur/assets/js/jquery.scrollex.min.js"></script>
-	<script src="/kinepunctuur/assets/js/skel.min.js"></script>
-	<script src="/kinepunctuur/assets/js/util.js"></script>
-	<!--[if lte IE 8]><script src="/kinepunctuur/assets/js/ie/respond.min.js"></script><![endif]-->
-	<script src="/kinepunctuur/assets/js/main.js"></script>
+	<script src="/assets/js/jquery.min.js"></script>
+	<script src="/assets/js/jquery.scrolly.min.js"></script>
+	<script src="/assets/js/jquery.scrollex.min.js"></script>
+	<script src="/assets/js/skel.min.js"></script>
+	<script src="/assets/js/util.js"></script>
+	<!--[if lte IE 8]><script src="/assets/js/ie/respond.min.js"></script><![endif]-->
+	<script src="/assets/js/main.js"></script>
 
 
 </body>
